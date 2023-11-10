@@ -17,8 +17,6 @@
 
 📲 Desarrollador Móvil (Android SDK, Desarrollo de Android)
 👨‍💻 Full Stack Developer (Flutter, JavaScript, JetPack Compose, Kotlin)
-🚀 Entusiasta de Flutter
-🔄 Practicante de Power BI
 💻 Experto en Soporte Técnico de TI (DevOps)
 🛠️ Implementación exitosa de CI/CD
 🚀 Gestión de despliegues a producción
