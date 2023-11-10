@@ -15,9 +15,14 @@
 
 <br>
 
--📲 Desarrollador Móvil (Flutter, Kotlin)
--👨‍💻 Frontend Developer (Docker, Node.js)
--💻 Experto DevOps
+📲 Desarrollador Móvil (Flutter, Kotlin)
+👨‍💻 Full Stack Developer (Docker, Node.js)
+🚀 Entusiasta de Flutter
+🔄 Practicante de Power BI
+💻 Experto en Soporte Técnico de TI (DevOps)
+🛠️ Implementación exitosa de CI/CD
+🚀 Gestión de despliegues a producción
+👥 Capacitador de nuevos ingresantes
 
   <h3 align="center">Connect with me:</h3>
 
