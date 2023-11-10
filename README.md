@@ -14,15 +14,11 @@
 
 
 <br>
-
-📲 Desarrollador Móvil (Flutter, Kotlin)
-👨‍💻 Full Stack Developer (Docker, Node.js)
-🚀 Entusiasta de Flutter
-🔄 Practicante de Power BI
-💻 Experto en Soporte Técnico de TI (DevOps)
-🛠️ Implementación exitosa de CI/CD
-🚀 Gestión de despliegues a producción
-👥 Capacitador de nuevos ingresantes
+- 📲 Desarrollador Móvil
+- 👨‍💻 Frontend Developer
+- 🚀 Flutter Enthusiast
+- 🔄 Practicante de Power Bi
+- 💻 Experto en Soporte Técnico de TI
 
   <h3 align="center">Connect with me:</h3>
 
