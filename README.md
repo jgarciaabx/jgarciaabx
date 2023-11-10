@@ -14,7 +14,6 @@
 
 
 <br>
-
 - 📲 Desarrollador Móvil
 - 👨‍💻 Frontend Developer
 - 🚀 Flutter Enthusiast
