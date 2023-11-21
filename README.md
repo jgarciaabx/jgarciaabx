@@ -17,14 +17,13 @@
 
 <br>
 
-📲 Desarrollador Móvil (Android SDK, Desarrollo de Android)
-👨‍💻 Full Stack Developer (Flutter, JavaScript, JetPack Compose, Kotlin)
-💻 Experto en Soporte Técnico de TI (DevOps)
-🛠️ Implementación exitosa de CI/CD
-🚀 Gestión de despliegues a producción
-👥 Capacitador de nuevos ingresantes
-💡 Comprometido
-<br>
+- 📲 Desarrollador Móvil (Android SDK, Desarrollo de Android)
+- 👨‍💻 Full Stack Developer (Flutter, JavaScript, JetPack Compose, Kotlin)
+- 💻 Experto en Soporte Técnico de TI (DevOps)
+- 🛠️ Implementación exitosa de CI/CD
+- 🚀 Gestión de despliegues a producción
+- 👥 Capacitador de nuevos ingresantes
+- 💡 Comprometido
 
   <h3 align="center">Connect with me:</h3>
 
