@@ -12,13 +12,6 @@
 </a>
 </div>
 
-
-<br>
-
-
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre mi**
-
-
 <br>
 
 - 📲 Desarrollador Móvil (Android SDK, Desarrollo de Android)
