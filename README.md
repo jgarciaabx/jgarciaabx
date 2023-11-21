@@ -52,7 +52,7 @@
 
 - **Backend as a Service(BaaS):**:
 <p align="center">
-  <a href="https://skillicons.dev" target="_blank"> <img src="https://skillicons.dev/icons?i=firebase&perline=14" />
+  <a href="https://skillicons.dev" target="_blank"> <img src="https://skillicons.dev/icons?i=firebase,nodejs,spring,mongodb,dotnet,postgres&perline=14" />
   </a>
 </p>
 </p>
