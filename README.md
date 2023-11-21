@@ -32,9 +32,6 @@
 <a href="https://twitter.com/jsupa_garcia?t=ILyrpEdf0p_Lv9L2ToWs5Q&s=08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="samaritano.dev" height="30" width="40" /></a>
 </p>
 
-<br><br>
-
-
 
 <p align="center">
 
