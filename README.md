@@ -70,7 +70,7 @@
 - **Extras**:
 
     <p align="center">
-  <a href="https://skillicons.dev" target="_blank"> <img src="https://skillicons.dev/icons?i=js,html,css,mysql,python,java,docker&perline=14" />
+  <a href="https://skillicons.dev" target="_blank"> <img src="https://skillicons.dev/icons?i=js,cs,java,mysql,python,java,docker&perline=14" />
   </a>
 </p> 
 
