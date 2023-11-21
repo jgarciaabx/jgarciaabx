@@ -24,6 +24,7 @@
 🚀 Gestión de despliegues a producción
 👥 Capacitador de nuevos ingresantes
 💡 Comprometido
+<br>
 
   <h3 align="center">Connect with me:</h3>
 
