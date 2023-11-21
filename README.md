@@ -92,8 +92,6 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-## My Statistics
-
 <br/>
 <p align="left">
   <a href="https://abhigyantrips.dev/">
