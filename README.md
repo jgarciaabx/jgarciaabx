@@ -38,7 +38,8 @@
 
 <p align="center">
 
-- **Languages**:
+<img alt="dsmark" align="center" height="70px" width="70px" src="https://c.tenor.com/cXlrPENTVkEAAAAi/chika-dance.gif">
+ <b> Languages and Tools:<img alt="dsmark" align="center" height="70px" width="70px" src="https://c.tenor.com/cXlrPENTVkEAAAAi/chika-dance.gif">
     
 <h3 align="center">Mobile App Development:</h3>
     <p align="center">
