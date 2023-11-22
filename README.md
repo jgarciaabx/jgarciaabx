@@ -74,7 +74,7 @@
 - **Extras**:
 
     <p align="center">
-  <a href="https://skillicons.dev" target="_blank"> <img src="https://skillicons.dev/icons?i=js,cs,java,mysql,python,gradle,docker,kubernetes&perline=14" />
+  <a href="https://skillicons.dev" target="_blank"> <img src="https://skillicons.dev/icons?i=js,cs,java,mysql,python,gradle,docker,kubernetes,aws,tensorflow,ts,py,rabbitmq,jenkins,grafana&perline=14" />
   </a>
 </p> 
 
