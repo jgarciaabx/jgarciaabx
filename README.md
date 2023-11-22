@@ -31,6 +31,9 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/juan-fernando-garcia-supa-34575312b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan-garcia" height="30" width="40" /></a>
 <a href="https://twitter.com/jsupa_garcia?t=ILyrpEdf0p_Lv9L2ToWs5Q&s=08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="samaritano.dev" height="30" width="40" /></a>
+<a href="https://www.tiktok.com/@juanfreshco" target="blank">
+    <img align="center" src="https://static.vecteezy.com/system/resources/thumbnails/016/716/450/small_2x/tiktok-icon-free-png.png" alt="juanfreshco" height="30" width="40" />
+  </a>
 </p>
 
 
