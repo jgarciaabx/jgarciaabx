@@ -36,7 +36,7 @@
 
 <p align="center">
 
-<img alt="dsmark" align="center" height="70px" width="70px" src="https://c.tenor.com/cXlrPENTVkEAAAAi/chika-dance.gif">
+
 
     
 - **Mobile App Development::**:
